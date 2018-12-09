@@ -1,6 +1,6 @@
 ![](images/icon.png)
 
-HenCoder 布局 1 修改已有控件的尺寸 练习项目
+HenCoder 布局 1 修改已有控件的尺寸 练习项目 完成
 ===
 
 ### 这是什么？
